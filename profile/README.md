@@ -1,7 +1,7 @@
 # COLTRANE-V
 
 <div align="center">
-  <img src="img/logo_icon_transparent.png" alt="Logo COLTRANE-V" width="200">
+  <img src="logo_icon_transparent.png" alt="Logo COLTRANE-V" width="200">
 </div>
 
 ## **CO**ntinous **L**earning capabilities for func**T**ional safety **R**un-time thre**A**ts ma**N**ag**E**ment in Automotive RISC**-V** based ECU
@@ -15,35 +15,6 @@ Il progetto mira a rendere più affidabili le ECU automotive attraverso un appro
 ## 🎯 Sito Web
 
 Visita il sito ufficiale del progetto: **[coltrane-v.github.io](https://coltrane-v.github.io)**
-
----
-
-## 👥 Team
-
-### Prof. Alessandro Savino
-**Politecnico di Torino** • [LinkedIn](https://www.linkedin.com/in/alessandro-savino-b606175/)  
-Professore associato al Dip. di Automatica e Informatica del Politecnico di Torino. Si occupa di affidabilità e sicurezza hardware/software per sistemi safety-critical, approximate computing e analisi di immagini.  
-📧 [alessandro.savino@polito.it](mailto:alessandro.savino@polito.it)
-
-### Dr. Luca Mannella
-**Politecnico di Torino** • [LinkedIn](https://www.linkedin.com/in/lucamannella/?locale=en)  
-Post-doc al Dip. di Automatica e Informatica del Politecnico di Torino. Ricerca tra cybersecurity, IoT e software engineering, con focus sulla sicurezza degli smart-home gateway e delle piattaforme domestiche connesse.  
-📧 [luca.mannella@polito.it](mailto:luca.mannella@polito.it)
-
-### Prof. Maurizio Palesi
-**Università degli Studi di Catania** • [LinkedIn](https://www.linkedin.com/in/maurizio-palesi-6599392/)  
-Professore ordinario all'Università di Catania (DIEEI). Lavora su progettazione e ottimizzazione di architetture di calcolo avanzate, in particolare multi-core e Network-on-Chip, con attenzione a prestazioni ed efficienza energetica.  
-📧 [maurizio.palesi@unict.it](mailto:maurizio.palesi@unict.it)
-
-### Elio Vinciguerra
-**Università degli Studi di Catania** • [LinkedIn](https://www.linkedin.com/in/eliovinciguerra/)  
-Ricercatore all'Università di Catania (DIEEI). Si occupa di architetture e strumenti per valutare affidabilità e sicurezza, incluse tecniche di fault injection (es. su gem5) e metodi per architetture emergenti.  
-📧 [elio.vinciguerra@unict.it](mailto:elio.vinciguerra@unict.it)
-
-### Prof. Alessio Merlo
-**Università degli Studi di Genova** • [LinkedIn](https://www.linkedin.com/in/alessio-merlo-5024203/)  
-Professore e ricercatore in cybersecurity, con forte focus su mobile security (Android): analisi statica/dinamica, testing e tecniche di protezione. Ha guidato per anni un gruppo di ricerca di Mobile Security all'Università di Genova.  
-📧 [alessio.merlo@unige.it](mailto:alessio.merlo@unige.it)
 
 ---
 
@@ -97,23 +68,11 @@ Repository pubblici contenenti codice e strumenti sviluppati dal progetto COLTRA
 
 ---
 
-## 📞 Contatti
-
-**Coordinatore del Progetto:**  
-Prof. Alessandro Savino  
-📧 [alessandro.savino@polito.it](mailto:alessandro.savino@polito.it)
-
-**Istituzione:**  
-Politecnico di Torino  
-Torino, Italia
-
----
-
 ## 🏛️ Istituzioni Partner
 
-- **Politecnico di Torino** (Coordinatore)
-- **Università degli Studi di Catania**
-- **Università degli Studi di Genova**
+- **Politecnico di Torino** (Coordinatore), Torino, Italia
+- **Università degli Studi di Catania**, Catania, Italia
+- **Università degli Studi di Genova**, Genova, Italia
 
 ---
 
