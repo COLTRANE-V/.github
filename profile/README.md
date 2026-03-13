@@ -33,11 +33,11 @@ Visita il sito ufficiale del progetto: **[coltrane-v.github.io](https://coltrane
 
 - **CANDoSA: A Hardware Performance Counter-Based Intrusion Detection System for DoS Attacks on Automotive CAN bus**  
   *IEEE IOLTS 2025*  
-  [DOI](https://doi.org/10.1109/IOLTS65288.2025.11116886) | [arXiv](https://arxiv.org/abs/2507.14739) | [Poster](https://coltrane-v.github.io/presentations/presentations/IEEE-IOLTS-2025_CANDoSA_poster-v4.pdf)
+  [DOI](https://doi.org/10.1109/IOLTS65288.2025.11116886) | [arXiv](https://arxiv.org/abs/2507.14739) | [Poster](https://coltrane-v.github.io/presentations/IEEE-IOLTS-2025_CANDoSA_poster-v4.pdf)
 
 - **AI-based Classification of Intentional vs. Unintentional Corruptions in the Split Computing context**  
   *IEEE IOLTS 2025*  
-  [DOI](https://doi.org/10.1109/IOLTS65288.2025.11116959) | [IRIS](https://iris.polito.it/handle/11583/3003794) | [Presentazione](https://coltrane-v.github.io/presentations/presentations/IEEE-IOLTS-2025_Split-Computing_presentation.pdf)
+  [DOI](https://doi.org/10.1109/IOLTS65288.2025.11116959) | [IRIS](https://iris.polito.it/handle/11583/3003794) | [Presentazione](https://coltrane-v.github.io/presentations/IEEE-IOLTS-2025_Split-Computing_presentation.pdf)
 
 - **Uncovering Privacy Vulnerabilities through Analytical Gradient Inversion Attacks**  
   *Springer*  
@@ -51,15 +51,15 @@ Visita il sito ufficiale del progetto: **[coltrane-v.github.io](https://coltrane
 
 - **R-CONV: An Analytical Approach for Efficient Data Reconstruction via Convolutional Gradients**  
   *Springer LNCS, WISE 2024*  
-  [DOI](https://doi.org/10.1007/978-981-96-0576-7_21) | [arXiv](https://arxiv.org/abs/2406.04227) | [Presentazione](https://coltrane-v.github.io/presentations/presentations/Springer-WISE-2024_R-CONV_presentation-v1.pdf)
+  [DOI](https://doi.org/10.1007/978-981-96-0576-7_21) | [arXiv](https://arxiv.org/abs/2406.04227) | [Presentazione](https://coltrane-v.github.io/presentations/Springer-WISE-2024_R-CONV_presentation-v1.pdf)
 
 - **CARACAS: vehiCular ArchitectuRe for detAiled Can Attacks Simulation**  
   *IEEE ISCC 2024*  
-  [DOI](https://doi.org/10.1109/ISCC61673.2024.10733705) | [arXiv](https://arxiv.org/abs/2406.07125) | [Presentazione](https://coltrane-v.github.io/presentations/presentations/IEEE-ISCC-TrustAICyberSec-2024_CARACAS_presentation.pdf)
+  [DOI](https://doi.org/10.1109/ISCC61673.2024.10733705) | [arXiv](https://arxiv.org/abs/2406.07125) | [Presentazione](https://coltrane-v.github.io/presentations/IEEE-ISCC-TrustAICyberSec-2024_CARACAS_presentation.pdf)
 
 - **A Micro Architectural Events Aware Real-Time Embedded System Fault Injector**  
   *IEEE LATS 2024*  
-  [DOI](https://doi.org/10.1109/LATS62223.2024.10534595) | [Presentazione](https://coltrane-v.github.io/presentations/presentations/IEEE-LATS-2024_MARVIN_presentation.pdf)
+  [DOI](https://doi.org/10.1109/LATS62223.2024.10534595) | [Presentazione](https://coltrane-v.github.io/presentations/IEEE-LATS-2024_MARVIN_presentation.pdf)
 ---
 
 ## 🛠️ Repository del Progetto
