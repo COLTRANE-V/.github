@@ -8,7 +8,7 @@
 
 **COLTRANE-V** è un progetto PRIN 2022 (2022HWM3T9, 2023–2025) coordinato dal **Politecnico di Torino** e finanziato dal **Ministero dell'Università e della Ricerca**. 
 
-Il progetto mira a rendere più affidabili le ECU automotive attraverso un approccio di **continuous learning**: rilevazione di guasti/attacchi e contromisure real-time su architettura RISC-V + acceleratore AI, in collaborazione con **Università degli Studi di Catania** ed il **Centro Alti Studi per la Difesa (CASD)**.
+Il progetto mira a rendere più affidabili le ECU automotive attraverso un approccio di **continuous learning**: rilevazione di guasti e attacchi e contromisure real-time su architettura RISC-V con acceleratore AI, in collaborazione con **Università degli Studi di Catania** ed **Università degli Studi di Genova**.
 
 ---
 
@@ -79,7 +79,7 @@ Repository pubblici contenenti codice e strumenti sviluppati dal progetto COLTRA
 
 - **Politecnico di Torino** (Coordinatore), Torino, Italia
 - **Università degli Studi di Catania**, Catania, Italia
-- **Centro Alti Studi per la Difesa (CASD)**, Roma, Italia
+- **Università degli Studi di Genova**, Genova, Italia
 
 ---
 
