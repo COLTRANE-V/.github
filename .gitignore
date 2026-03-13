@@ -1,0 +1,28 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor/IDE artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary/log files
+*.tmp
+*.temp
+*.log
+
+# Backup files (manual or generated)
+*.backup
+*.backup.*
+*.backup_*
+*.bak
+*.old
+
+# Common archive outputs
+*.zip
+*.tar
+*.tar.gz
+*.tgz
